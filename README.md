@@ -2,10 +2,12 @@
 This repository contains project on clustering of news articles and headlines that are being shared on Facebook. 
 
 **Data distribution** among topics-
-![pic1](pic1.png)
+![pic1](https://github.com/ARGULASAISURAJ/Clustering_News_articles_on-facebook/blob/main/pic1.PNG)
 
 Clustered news articles based on three vectorisation techniques for 2 clustering algorithms
 To find the optimum number of clusters, **Elbow curve** method has been employed.
+
+![pic2](https://github.com/ARGULASAISURAJ/Clustering_News_articles_on-facebook/blob/main/pic2.PNG)
 For **Dimensionality reduction** we used **T-SNE**
 For converting word2vec to document vector a new method **MIN-MAX word vector** has been employed.
 
@@ -21,29 +23,29 @@ For converting word2vec to document vector a new method **MIN-MAX word vector** 
 Below are the results of clusters
 
 **TFIDF KMEANS**
-![pic1](pic1.png)
+![pic3](https://github.com/ARGULASAISURAJ/Clustering_News_articles_on-facebook/blob/main/pic3.PNG)
 
 **TFIDF Agglomerative**
-![pic1](pic1.png)
+![pic4](https://github.com/ARGULASAISURAJ/Clustering_News_articles_on-facebook/blob/main/pic4.PNG)
 
 **Doc2vec KMEANS**
-![pic1](pic1.png)
+![pic5](https://github.com/ARGULASAISURAJ/Clustering_News_articles_on-facebook/blob/main/pic5.PNG)
 
 **Doc2vec Agglomerative**
-![pic1](pic1.png)
+![pic6](https://github.com/ARGULASAISURAJ/Clustering_News_articles_on-facebook/blob/main/pic6.PNG)
 
 **Word2vec KMEANS**
-![pic1](pic1.png)
+![pic7](https://github.com/ARGULASAISURAJ/Clustering_News_articles_on-facebook/blob/main/pic7.PNG)
 
 **Word2vec Agglomerative**
-![pic1](pic1.png)
+![pic8](https://github.com/ARGULASAISURAJ/Clustering_News_articles_on-facebook/blob/main/pic8.PNG)
 
 Extra Clustering with kmeans cluster tfidf technique and MDS dimensionality reduction.
-![pic1](pic1.png)
+![pic9](https://github.com/ARGULASAISURAJ/Clustering_News_articles_on-facebook/blob/main/pic9.PNG)
 
 Below are the stats of clusters
 
-![pic1](pic1.png)
+![pic10](https://github.com/ARGULASAISURAJ/Clustering_News_articles_on-facebook/blob/main/pic10.PNG)
 
 Observations:
 

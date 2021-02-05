@@ -1,14 +1,19 @@
 # Clustering_News_articles_on-facebook
+
 This repository contains project on clustering of news articles and headlines that are being shared on Facebook. 
 
 **Data distribution** among topics-
+
 ![pic1](https://github.com/ARGULASAISURAJ/Clustering_News_articles_on-facebook/blob/main/pic1.PNG)
 
 Clustered news articles based on three vectorisation techniques for 2 clustering algorithms
+
 To find the optimum number of clusters, **Elbow curve** method has been employed.
 
 ![pic2](https://github.com/ARGULASAISURAJ/Clustering_News_articles_on-facebook/blob/main/pic2.PNG)
+
 For **Dimensionality reduction** we used **T-SNE**
+
 For converting word2vec to document vector a new method **MIN-MAX word vector** has been employed.
 
 **Vectorisation**

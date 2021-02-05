@@ -2,6 +2,8 @@
 
 This repository contains project on clustering of news articles and headlines that are being shared on Facebook. 
 
+Dataset- https://drive.google.com/file/d/1NbB053Q4MulTlzxINrlLe9VyhD9GzF0J/view?usp=sharing
+
 **Dataset snapshot**
 
 ![pic11](https://github.com/ARGULASAISURAJ/Clustering_News_articles_on-facebook/blob/main/pic11.png)

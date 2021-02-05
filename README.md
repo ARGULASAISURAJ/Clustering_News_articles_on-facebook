@@ -4,7 +4,7 @@ This repository contains project on clustering of news articles and headlines th
 
 **Dataset snapshot**
 
-![pic11](https://github.com/ARGULASAISURAJ/Clustering_News_articles_on-facebook/blob/main/pic11.PNG)
+![pic11](https://github.com/ARGULASAISURAJ/Clustering_News_articles_on-facebook/blob/main/pic11.png)
 
 **Data distribution** among topics-
 
@@ -21,7 +21,7 @@ lemmatized words
 
 **Dataset snapshot after cleaning**
 
-![pic12](https://github.com/ARGULASAISURAJ/Clustering_News_articles_on-facebook/blob/main/pic12.PNG)
+![pic12](https://github.com/ARGULASAISURAJ/Clustering_News_articles_on-facebook/blob/main/pic12.png)
 
 
 Clustered news articles based on three vectorisation techniques for 2 clustering algorithms

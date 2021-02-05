@@ -2,9 +2,27 @@
 
 This repository contains project on clustering of news articles and headlines that are being shared on Facebook. 
 
+**Dataset snapshot**
+
+![pic11](https://github.com/ARGULASAISURAJ/Clustering_News_articles_on-facebook/blob/main/pic11.PNG)
+
 **Data distribution** among topics-
 
 ![pic1](https://github.com/ARGULASAISURAJ/Clustering_News_articles_on-facebook/blob/main/pic1.PNG)
+
+**Text cleaning procedure**
+
+dropna
+remove stopwords and words with length less than 2
+removed numerical text
+lemmatized words
+
+
+
+**Dataset snapshot after cleaning**
+
+![pic12](https://github.com/ARGULASAISURAJ/Clustering_News_articles_on-facebook/blob/main/pic12.PNG)
+
 
 Clustered news articles based on three vectorisation techniques for 2 clustering algorithms
 
@@ -17,8 +35,8 @@ For **Dimensionality reduction** we used **T-SNE**
 For converting word2vec to document vector a new method **MIN-MAX word vector** has been employed.
 
 **Vectorisation**
-1. TF-IDF
-2. WORD2VEC
+1. TF-IDF - some parameters 1,3 ngrams,min_df-0.15, max_features-10000
+2. WORD2VEC - Gensim google word2vec
 3. DOC2VEC
 
 **Clustering Algorithm**

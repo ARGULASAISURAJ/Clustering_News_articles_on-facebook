@@ -87,5 +87,15 @@ Word2Vec performed the best compared to both TF-IDF and Doc2Vec, Compared to K-m
 Word2Vec with K-means performed very Well.
 
 
+Thanks,
+
+**Sai Suraj Argula**
+
+Phone no - +1 8135396715
+
+LinkedIn - https://www.linkedin.com/in/suraj-argula/
+
+Website - https://argulasaisuraj.github.io/Suraj_Website/
+
 
 

@@ -25,7 +25,7 @@ lemmatized words
 
 **Dataset snapshot after cleaning**
 
-![pic12](https://github.com/ARGULASAISURAJ/Clustering_News_articles_on-facebook/blob/main/Images/pic12.PNG)
+![pic12](https://github.com/ARGULASAISURAJ/Clustering_News_articles_on-facebook/blob/main/Images/pic12.png)
 
 
 Clustered news articles based on three vectorisation techniques for 2 clustering algorithms

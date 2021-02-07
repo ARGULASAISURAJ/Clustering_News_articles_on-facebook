@@ -8,7 +8,7 @@ Youtube Wakthrough- link to be updated
 
 **Dataset snapshot**
 
-![pic11](https://github.com/ARGULASAISURAJ/Clustering_News_articles_on-facebook/blob/main/Images/pic11.PNG)
+![pic11](https://github.com/ARGULASAISURAJ/Clustering_News_articles_on-facebook/blob/main/Images/pic11.png)
 
 **Data distribution** among topics-
 
